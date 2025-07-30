@@ -11,6 +11,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss" />
 </div>
 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomsam321&layout=compact&theme=react&langs_count=6)](https://github.com/Tomsam321)
-</div>
