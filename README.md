@@ -1,4 +1,4 @@
-<h1 align="center">hey</h1>
+<h1 align="center">Hi there</h1>
 <h2 align="center">Frontend developer</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tomsam321&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
