@@ -1,4 +1,3 @@
-## Hi there 👋
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Tomsam321&theme=gruvbox&no-frame=true&margin-w=15&rank=SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
