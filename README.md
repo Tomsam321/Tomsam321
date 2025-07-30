@@ -1,5 +1,6 @@
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Tomsam321&theme=gruvbox&no-frame=true&margin-w=15&rank=SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+# Hey
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tomsam321&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Tomsam321/Tomsam321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
