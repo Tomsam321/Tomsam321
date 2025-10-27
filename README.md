@@ -12,7 +12,3 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 </div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomsam321&layout=compact&theme=react&langs_count=6)](https://github.com/Tomsam321)
-
